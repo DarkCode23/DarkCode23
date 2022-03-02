@@ -1,4 +1,5 @@
-Hey, I'm Jesse or you can called me Dark!
-I am a Web Developer/JavaScript!
---------------------------------------------
-I really like to scripting, It my almost my life.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JesseeDev&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesseeDev)
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=JesseeDev&layout=compact)
